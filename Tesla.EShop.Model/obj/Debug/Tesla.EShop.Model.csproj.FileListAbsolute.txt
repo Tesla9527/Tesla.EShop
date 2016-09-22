@@ -1,0 +1,4 @@
+E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Model\bin\Debug\Tesla.EShop.Model.dll
+E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Model\bin\Debug\Tesla.EShop.Model.pdb
+E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Model\obj\Debug\Tesla.EShop.Model.dll
+E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Model\obj\Debug\Tesla.EShop.Model.pdb
