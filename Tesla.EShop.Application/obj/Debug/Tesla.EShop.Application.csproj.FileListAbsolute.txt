@@ -2,3 +2,7 @@ E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Application\bin\Debug\Tesla.EShop.Applica
 E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Application\bin\Debug\Tesla.EShop.Application.pdb
 E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Application\obj\Debug\Tesla.EShop.Application.dll
 E:\Tesla.EShop\Tesla.EShop\Tesla.EShop.Application\obj\Debug\Tesla.EShop.Application.pdb
+E:\Tesla.EShop\Tesla.EShop.Application\bin\Debug\Tesla.EShop.Application.dll
+E:\Tesla.EShop\Tesla.EShop.Application\bin\Debug\Tesla.EShop.Application.pdb
+E:\Tesla.EShop\Tesla.EShop.Application\obj\Debug\Tesla.EShop.Application.dll
+E:\Tesla.EShop\Tesla.EShop.Application\obj\Debug\Tesla.EShop.Application.pdb
